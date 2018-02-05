@@ -123,7 +123,7 @@ The GENI Portal includes a web-based tool called Jacks. Jacks is a graphical too
 After you click on "Add Resources" inside your slice page, Jacks will be open in Edit mode, which looks something like this:
 
 
-![https://raw.githubusercontent.com/ffund/el9383/master/images/jacks-add-resources.png]()
+![](images/jacks-add-resources.png)
 
 
 Click on the black "VM" icon and drag it onto the white canvas. This icon represents a generic default virtual machine, suitable for general-purpose tasks. Repeat the above step two more times. You should now see three VM boxes on the canvas.
