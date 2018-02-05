@@ -1,4 +1,6 @@
-
+The exercises on this page are intended to help remind you of basic Linux
+commands and utilities that you will will need for lab assignments in this 
+course. 
 
 ## Note: pay attention to _where_ you are
 
