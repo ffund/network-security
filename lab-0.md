@@ -168,7 +168,9 @@ Once your resource request is bound to a particular aggregate, you will be able 
 
 If your request fails, try again with a different aggregate.
 
-Even if your request is succesful, it will take some time before your VMs are ready for you to log in. To see when they're ready, click on the name of your slice to go back to the slice page. On your slice page, the canvas will automatically refresh to show you the status of your VMs - each VM will turn green as it becomes available for log in:
+Even if your request is succesful, it will take some time before your VMs are ready for you to log in. 
+
+To see when they're ready, click on the name of your slice (at the top, where it says "Home -> Project -> Slice") to go back to the slice page. On your slice page, the canvas will automatically refresh to show you the status of your VMs - each VM will turn green as it becomes available for log in:
 
 
 ![](images/jacks-some-resources-ready.png)
