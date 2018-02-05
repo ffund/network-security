@@ -132,13 +132,13 @@ To edit the hostname of the VM, click the VM box. In the "Name" field at the top
 
 Now click near the "client" VM box on the canvas, then click and drag towards the "router" VM. Release when you reach the "router" VM. You should now see a line and a box representing a link connecting the two VMs. Repeat this step to connect the "router" to the "server". Your canvas should now look like this:
 
-![images/jacks-topology.png]()
+![](images/jacks-topology.png)
 
 You can customize the details of your topology further in Jacks - e.g. you can set the characteristics (capacity, for example) of each of the network links, or change the hardware resources (CPU cores, disk space, memory), software resources (disk image, operating system), or network configuration (IP address, netmask) of the VMs. All of these customizations will also be reflected in the RSpec. For today's experiment, we won't need many customizations. We will, however, use the "Auto IP" tool to automatically assign appropriate IPs to all of the VMs in our topology, to allow them to communicate with one another.
 
 The configuration of VMs and links is typically referred to as a "topology". Behind the scenes, Jacks is creating an RSpec that completely describes the topology you have drawn. To see the RSpec that you have just generated, click on "View RSpec."
 
-![images/jacks-rspec.png]()
+![](images/jacks-rspec.png)
 
 An RSpec is a very useful document, because once you have an RSpec for a particular toplogy, you can use it to reserve the same topology many times (or share a topology) without having to go through the trouble of specifying the topology and configuration details by hand in the portal. Try this out for yourself: use the "Download RSpec" button below the canvas to save your RSpec to a file. Then, use the "X" button in the Jacks editor to return to the canvas view. Then use the "Delete All" button in the Jacks editor to clear your canvas. Now, we'll reload it from the file. Below the canvas, you'll see a "Choose RSpec" section with a few choices (portal, file, URL, text box) that allows you to provide an RSpec document in several ways. Choose the file option and choose the file that you've just saved your RSpec to. You should see your three-node topology displayed on the canvas.
 
@@ -163,7 +163,7 @@ There are several things to consider when choosing an aggregate:
 Once your resource request is bound to a particular aggregate, you will be able to reserve your resources; scroll down to the bottom of the page and click on "Reserve Resources." This will submit your RSpec to the aggregate you've selected, which will attempt to satisfy your request. If the aggregate believes it is able to give you the resources you've requested, then you'll see that your reservation has finished:
 
 
-![images/jacks-status.png]()
+![](images/jacks-status.png)
 
 
 If your request fails, try again with a different aggregate.
@@ -171,7 +171,7 @@ If your request fails, try again with a different aggregate.
 Even if your request is succesful, it will take some time before your VMs are ready for you to log in. To see when they're ready, click on the name of your slice to go back to the slice page. On your slice page, the canvas will automatically refresh to show you the status of your VMs - each VM will turn green as it becomes available for log in:
 
 
-![images/jacks-some-resources-ready.png]()
+![](images/jacks-some-resources-ready.png)
 
 
 This may take some time. If the aggregate is unable to bring up the VMs you requested (even if the request "finishes"), you may get an email telling you that your VMs failed to boot. If this happens, delete the resources (use the "Delete" button at the bottom of the canvas) and try again with a different aggregate.
