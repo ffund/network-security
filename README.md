@@ -1,9 +1,9 @@
 * Set up your lab account
-  * [0.1 Set up an account on GENI](lab0/1-1-setup-account.md)
-  * [0.2 Reserve a simple network on GENI](lab0/1-2-reserve-and-login.md)
-  * [0.3 Inspect network interfaces](lab0/1-3-network-interfaces.md)
-  * [0.4 Working on remote hosts](lab0/1-4-working-on-remote-hosts.md)
-  * [0.5 Save data and delete resources on GENI](lab0/1-5-delete-resources.md)
+  * [0.1 Set up an account on GENI](https://github.com/ffund/tcp-ip-essentials/lab0/1-1-setup-account.md)
+  * [0.2 Reserve a simple network on GENI](https://github.com/ffund/tcp-ip-essentials/lab0/1-2-reserve-and-login.md)
+  * [0.3 Inspect network interfaces](https://github.com/ffund/tcp-ip-essentials/lab0/1-3-network-interfaces.md)
+  * [0.4 Working on remote hosts](https://github.com/ffund/tcp-ip-essentials/lab0/1-4-working-on-remote-hosts.md)
+  * [0.5 Save data and delete resources on GENI](https://github.com/ffund/tcp-ip-essentials/lab0/1-5-delete-resources.md)
 
 
 * [Redirect traffic to a wrong or fake site with DNS spoofing on a LAN
