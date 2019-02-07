@@ -3,7 +3,7 @@
   * [0.2 Reserve a simple network on GENI](https://github.com/ffund/tcp-ip-essentials/blob/master/lab0/1-2-reserve-and-login.md)
   * [0.3 Inspect network interfaces](https://github.com/ffund/tcp-ip-essentials/blob/master/lab0/1-3-network-interfaces.md)
   * [0.4 Working on remote hosts](https://github.com/ffund/tcp-ip-essentials/blob/master/lab0/1-4-working-on-remote-hosts.md)
-  * [0.5 Save data and delete resources on GENI](https://github.com/ffund/blob/master/tcp-ip-essentials/lab0/1-5-delete-resources.md)
+  * [0.5 Save data and delete resources on GENI](https://github.com/ffund/tcp-ip-essentials/blob/master/lab0/1-5-delete-resources.md)
 2. [Redirect traffic to a wrong or fake site with DNS spoofing on a LAN
 ](https://witestlab.poly.edu/blog/redirect-traffic-to-a-wrong-or-fake-site-with-dns-spoofing-on-a-lan/). 
   * Answer the questions in the "Exercise" section. 
