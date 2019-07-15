@@ -617,9 +617,3 @@ screen -R mysession
 ```
 
 to re-attach to your running session, by name.
-
-# More resources
-
-If you are interested in more exercises related to using the Unix shell, see Software Carpentry: 
-
-[http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)
