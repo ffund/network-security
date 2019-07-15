@@ -380,27 +380,6 @@ scp -P PORT README.txt USERNAME@HOSTNAME:~/README2.txt
 
 
 
-## Online sharing from the command line
-
-Sometimes we'll want to do the "reverse" of `wget` - upload a file to the Internet,
-using the Linux shell. There are several online services that provide an
-API for this.  To use them, you'll need to first install `curl`:
-
-```
-sudo apt-get update
-sudo apt-get -y install curl
-```
-
-For example, to upload the "bikes" `README.txt` you
-downloaded earlier, you can run
-
-```
-curl --upload-file ./README.txt https://transfer.sh/README.txt
-```
-
-This will return a URL, which you can open in a browser to
-see and download the file you've just uploaded.
-
 # Manipulating output of a command
 
 ## See more or less
