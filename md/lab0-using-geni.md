@@ -20,7 +20,7 @@ On the next screen, you will be prompted to choose an Identity Provider. Choose 
 
 Review the policies on the next page, check both boxes, and click "Activate" to log in to the portal.
 
-GENI users are organized into projects (read more [here](http://groups.geni.net/geni/wiki/GENIConcepts#Project).) Anyone can create an account on GENI, but unless you are part of a project (supervised by a responsible Project Lead), you won't be able to access any GENI resources. For this course, we will work in the EL9383-NYU-S18 project. I am the Project Lead for this project; the students in our class will be Project Members.
+GENI users are organized into projects (read more [here](http://groups.geni.net/geni/wiki/GENIConcepts#Project).) Anyone can create an account on GENI, but unless you are part of a project (supervised by a responsible Project Lead), you won't be able to access any GENI resources. For this course, we will work in the ECE9383-NYU-SP20 project. I am the Project Lead for this project; the students in our class will be Project Members.
 
 In the portal, [join the project](https://portal.geni.net/secure/join-project.php) named EL9383-NYU-S18 - i.e. type "EL9383-NYU-S18" into the box where it says "Enter a Project Name", click "Join", and proceed to send the join request. Requests to join a project are pending until they are approved by the project lead (me); understand that it may take up to a day for your request to be approved, so plan accordingly.
 
